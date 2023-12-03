@@ -1,0 +1,39 @@
+body {
+    background-color: #000000;
+    color: #ff0000;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  header h1 {
+    color: #008080;
+    font-family: 'Hedvig Letters Serif', serif;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  table, th, td {
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  img {
+    max-width: 50%;
+    height: auto;
+    margin-top: 10px;
+  }
+  
+  footer {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 0.8em;
+    color: #777;
+  }
+  
